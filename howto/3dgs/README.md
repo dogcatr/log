@@ -126,4 +126,17 @@
         --start_checkpoint data/dense/output/chkpnt4000.pth
     ~~~
 
+## 利用ソフトウェア・データおよびライセンス
 
+ここで利用しているソフトウェア・データは以下のもの
+
+### 利用ソフトウェア
+- **3D Gaussian Splatting for Real-Time Radiance Field Rendering**\
+  ライセンス：Gaussian-Splatting License\
+  公式リポジトリ：https://github.com/graphdeco-inria/gaussian-splatting
+
+---
+
+### 注意事項
+- 本リポジトリは研究・学習・情報共有目的で作成されています。
+- 各ソフトウェアおよびデータの著作権は、それぞれの権利者に帰属します。
