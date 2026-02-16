@@ -21,7 +21,7 @@
 
 ### Gsplat
 
-### Sharp(https://github.com/apple/ml-sharp)
+### [Sharp](https://github.com/apple/ml-sharp)
 機能：画像から3Dシーンを再構成\
 入力：画像1枚\
 出力：ポイントクラウド(3DGS)\
