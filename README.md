@@ -13,6 +13,12 @@
 出力：ポイントクラウド(3DGS)\
 手順：[インストール手順](howto/3dgs/README.md)
 
+### [3DGRUT](https://github.com/nv-tlabs/3dgrut)
+機能：画像から3Dシーンを再構成、ファイル変換\
+入力：画像\
+出力：ポイントクラウド(3DGS)\
+手順：[インストール手順](howto/3dgrut/README.md)
+
 ### Gsplat
 
 ### Sharp
@@ -26,6 +32,8 @@
 機能：画像から3Dシーンを再構成\
 入力：画像\
 出力：メッシュ
+
+### SAM
 
 ## 音声
 
